@@ -9,9 +9,9 @@
 ## 3-常用算法说明
 在VOC数据集的评价测试上选取了基于全数据集测试的算法评估数据来进行说明，网址是[http://host.robots.ox.ac.uk:8080/leaderboard/main_bootstrap.php](http://host.robots.ox.ac.uk:8080/leaderboard/main_bootstrap.php "PASCAL VOC Challenge performance evaluation")。  
 ### 3-1 常用算法效果
-![算法效果图](image/算法效果.jpg)
+![算法效果图](image/算法效果.png)
 ### 3-2 常用算法说明
-![算法说明图](image/算法描述.jpg)
+![算法说明图](image/算法描述.png)
 
 ## 4-算法测试结果统计
 ### 4-1 YOLOv3
