@@ -41,7 +41,7 @@ YOLO是<学校><人><时间>提出的一种用于目标检测的算法，历经�
 	Total BFLOPS 40.155
 
 Loss函数：  
-![yolo_v1_loss](yolo/yolo_v1_loss.jpg)
+![yolo_v1_loss](yolo/yolo_v1_loss.png)
 
 其中S=7，B=3，C=20，Ⅱ表示是否存在目标。
 
